@@ -1,0 +1,28 @@
+# ==========================================
+# AI Models (Do NOT upload to GitHub)
+# ==========================================
+*.gguf
+*.onnx
+*.json
+*.html
+vosk-model-small-en-us-0.15/
+models/
+
+# ==========================================
+# Python & Environment
+# ==========================================
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+env/
+
+# ==========================================
+# Operating System files
+# ==========================================
+.DS_Store
+Thumbs.db
+

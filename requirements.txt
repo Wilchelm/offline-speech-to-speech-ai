@@ -1,0 +1,4 @@
+PyAudio==0.2.14
+vosk==0.3.45
+piper-tts==1.6.0
+llama_cpp_python==0.3.34
