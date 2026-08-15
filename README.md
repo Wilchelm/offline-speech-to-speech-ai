@@ -15,9 +15,7 @@ Choose language / Wybierz język:
 
 ### Video Demonstration
 
-<video src="assets/demo.mp4" width="100%" controls>
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/4a68d230-8b4e-470f-939e-20fa91a97646
 
 ### Features
 * Privacy First: All data processing occurs strictly on your local machine.
@@ -77,9 +75,7 @@ This project orchestrates third-party open-source components. The NonCommercial 
 
 > ***Uwaga:** Prezentacja wideo jest w języku angielskim.*
 
-<video src="assets/demo.mp4" width="100%" controls>
-  Twoja przeglądarka nie obsługuje tagu wideo.
-</video>
+https://github.com/user-attachments/assets/4a68d230-8b4e-470f-939e-20fa91a97646
 
 ### Funkcje
 * Prywatność: Wszystkie dane przetwarzane są lokalnie.
