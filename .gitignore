@@ -25,4 +25,5 @@ env/
 # ==========================================
 .DS_Store
 Thumbs.db
-
+assets/
+.Rhistory
