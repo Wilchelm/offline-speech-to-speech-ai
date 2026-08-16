@@ -6,12 +6,12 @@ A privacy-focused, 100% offline voice assistant that integrates a Large Language
 
 Choose language / Wybierz język:
 
-* [🇬🇧 English Version](#english-version)
-* [🇵🇱 Wersja Polska](#wersja-polska)
+* [English Version](#english-version)
+* [Wersja Polska](#wersja-polska)
 
 ---
 
-## 🇬🇧 English Version
+## English Version
 
 ### Video Demonstration
 
@@ -69,7 +69,7 @@ This project orchestrates third-party open-source components. The NonCommercial 
 
 ---
 
-## 🇵🇱 Wersja Polska
+## Wersja Polska
 
 ### Demonstracja Wideo
 
