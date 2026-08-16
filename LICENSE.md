@@ -13,8 +13,6 @@ Under the following terms:
 - Attribution — You must give appropriate credit and provide a link to the original repository.
 - NonCommercial — You may NOT use the material for commercial purposes.
 
-Full legal text can be found at: https://creativecommons.org
-
 ===============================================================================
 2. DISCLAIMER OF WARRANTY (AS IS)
 ===============================================================================
