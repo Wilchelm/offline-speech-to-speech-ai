@@ -51,12 +51,10 @@ https://github.com/user-attachments/assets/4a68d230-8b4e-470f-939e-20fa91a97646
    ./run.sh
    ```
 
-### License & Proprietary Notice
+### License & Third-Party Components
 
-This custom source code is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
+This project is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**. The full legal text is available in the LICENSE file in this repository.
 
-**You are free to:** Share and adapt the material.
-**Under the following terms:** You must provide appropriate credit. **Non-commercial use only.**
 
 ### Third-Party Components
 
@@ -111,12 +109,9 @@ https://github.com/user-attachments/assets/4a68d230-8b4e-470f-939e-20fa91a97646
    ./run.sh
    ```
 
-### Licencja i Uwagi Prawne
+### Licencja i Komponenty Zewnętrzne
 
-Ten kod źródłowy jest objęty licencją **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
-
-**Możesz:** Udostępniać i modyfikować materiał.
-**Warunki:** Wymagane jest podanie autorstwa. **Zakaz użycia komercyjnego.**
+Ten projekt jest objęty licencją **GNU Affero General Public License v3.0 (AGPL-3.0)**. Pełny tekst prawny znajduje się w pliku LICENSE w tym repozytorium.
 
 ### Komponenty osób trzecich
 
