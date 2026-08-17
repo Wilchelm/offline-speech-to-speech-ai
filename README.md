@@ -55,15 +55,18 @@ https://github.com/user-attachments/assets/4a68d230-8b4e-470f-939e-20fa91a97646
 
 This project is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**. The full legal text is available in the LICENSE file in this repository.
 
+#### Third-Party Components
 
-### Third-Party Components
-
-This project orchestrates third-party open-source components. The NonCommercial restriction applies strictly to this orchestration code.
+This project orchestrates third-party open-source components under their respective permissive licenses. The AGPL-3.0 terms apply strictly to the orchestration and control code of this project:
 
 * **Vosk API & Models:** Apache 2.0 License
 * **llama-cpp-python:** MIT License
 * **Piper TTS (Amy Voice):** MIT License
 * **PyAudio:** MIT License
+
+#### Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ---
 
@@ -113,11 +116,15 @@ https://github.com/user-attachments/assets/4a68d230-8b4e-470f-939e-20fa91a97646
 
 Ten projekt jest objęty licencją **GNU Affero General Public License v3.0 (AGPL-3.0)**. Pełny tekst prawny znajduje się w pliku LICENSE w tym repozytorium.
 
-### Komponenty osób trzecich
+#### Komponenty Zewnętrzne
 
-Projekt integruje komponenty open-source. Ograniczenie "Non-Commercial" dotyczy wyłącznie kodu sterującego tym projektem.
+Ten projekt zarządza zewnętrznymi komponentami open-source na ich własnych, zezwalających licencjach. Warunki AGPL-3.0 dotyczą wyłącznie kodu orkiestracji (sterującego) tego projektu:
 
 * **Vosk API & Models:** Licencja Apache 2.0
 * **llama-cpp-python:** Licencja MIT
 * **Piper TTS (Amy Voice):** Licencja MIT
 * **PyAudio:** Licencja MIT
+
+#### Wyłączenie Odpowiedzialności (Disclaimer)
+
+OPROGRAMOWANIE JEST DOSTARCZANE "TAKIM, JAKIE JEST" (AS IS), BEZ JAKIEJKOLWIEK GWARANCJI, WYRAŹNEJ LUB DOROZUMIANEJ. W ŻADNYM WYPADKU AUTORZY LUB WŁAŚCICIELE PRAW AUTORSKICH NIE PONOSZĄ ODPOWIEDZIALNOŚCI Z TYTUŁU JAKICHKOLWIEK ROSZCZEŃ, SZKÓD LUB INNEJ ODPOWIEDZIALNOŚCI WYNIKAJĄCEJ Z KORZYSTANIA Z OPROGRAMOWANIA.
